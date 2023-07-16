@@ -1,0 +1,14 @@
+{
+    "files.encoding": "utf8",
+    "editor.rulers": [
+        80,
+        120,
+    ],
+    "files.autoGuessEncoding": false,
+    "files.exclude": {
+        "Listings": true,
+        "Objects": true,
+        "*.uvguix.*": true,
+        "*.uvoptx": true
+    }
+}
